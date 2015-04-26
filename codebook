@@ -1,8 +1,0 @@
-##Codebook
-
-This codebook serves to explain the variable names used.
-
-#The following names give refernce to the files that were read and stored into.
--features
--actLabels
--subTest
