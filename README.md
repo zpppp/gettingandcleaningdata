@@ -12,9 +12,9 @@ our project objective is as follow:
 
 The script does the following:  
 1. Set working directory  
-2. Reading all the text files with data, and giving meaningful names to the columns 
-3. Combining the datasets for Test and Train for subject, x and y 
-4. Extract only the mean and standard deviation measurements from x 
-5. Combining all the datasets into 1 table, renaming column names for the measurements  
+2. Reading all the text files with data, and giving meaningful names to the columns   
+3. Combining the datasets for Test and Train for subject, x and y   
+4. Extract only the mean and standard deviation measurements from x   
+5. Combining all the datasets into 1 table, renaming column names for the measurements    
 6. Create tidy table  
 7. Output text file for tidy table  
